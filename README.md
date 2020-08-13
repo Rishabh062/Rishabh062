@@ -1,7 +1,5 @@
-### Hi there 👋 I am Rishabh
-
-
-**Rishabh062/Rishabh062** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 I am Rishabh Dwivedi.
+### Currently Doing BTech in Computer Science And Engineering and enjoying it.
 
 Here are some ideas to get you started:
 
