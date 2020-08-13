@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: ...He/Him/His
 - ⚡ Fun fact: ... Always ready to explore.
--->I really loves technology because it empowers you to do the things which seems to be impossible or hard to normal peoples.
-Always ready for help :-) :-) :)
+-->
+"I really loves technology because it empowers you to do the things which seems to be impossible or hard to normal peoples.
+Always ready for help :-) :-) :)"
