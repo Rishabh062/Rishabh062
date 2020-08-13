@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with ...Peoples who are a fan of open sources and likes DsAlgo.
 - 🤔 I’m looking for help with ...Experienced Developers and open source contributors.
 - 💬 Ask me about ...Machine Learning,Web developments,Python.
-- 📫 How to reach me: ...Through Twitter-https://twitter.com/Rishabh07147212 Youtube- https://www.youtube.com/results?search_query=talkwithrd Blogspot-https://talkwithrd.blogspot.com/
+- 📫 How to reach me: ...Through Twitter-(https://twitter.com/Rishabh07147212) Youtube- (https://www.youtube.com/results?search_query=talkwithrd) Blogspot-(https://talkwithrd.blogspot.com/)
 
 - 😄 Pronouns: ...He/Him/His
 - ⚡ Fun fact: ... Always ready to explore.
