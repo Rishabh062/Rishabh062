@@ -11,3 +11,5 @@
 - ⚡ Fun fact: ... Always ready to explore.
 **"I really loves technology because it empowers you to do the things which seems to be impossible or hard to normal peoples.
 Always ready for help :-) :-) :)"**
+
+# ![Rishabh062's github stats](https://github-readme-stats.vercel.app/api?username=Rishabh062&theme=omni&show_icons=true)<br>
