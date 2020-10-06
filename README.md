@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Rishabh Dwivedi.
 ### Currently Doing BTech in Computer Science And Engineering and enjoying it.
 
-- 🔭 I’m currently working on ... Intresting Python Projects.
+- 🔭 I’m currently working on ... Python projects, Machine learning and Competitive programming .
 - 🌱 I’m currently learning ... Machine Learning,web development,Data Structures and Algorithms.
 - 👯 I’m looking to collaborate with ...Peoples who are a fan of open sources and likes DsAlgo.
 - 🤔 I’m looking for help with ...Experienced Developers and open source contributors.
