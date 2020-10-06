@@ -19,7 +19,7 @@ Always ready for help :-) :-) :)"**
 
 
 # ![Rishabh062's github stats]
-<p align="center">
+<p align="left">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh062&theme=radical&line_height=10&hide_langs_below=1&layout=compact" />
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabh062&show_icons=true&theme=radical&line_height=21"/>
 </p>
