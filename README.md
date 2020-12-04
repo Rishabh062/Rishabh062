@@ -10,10 +10,6 @@
 - 😄 Pronouns: ...He/Him/His
 - ⚡ Fun fact: ... Always ready to explore.
 
--💥 Active member:... <a href="https://dev.to/rishabh062">
-  <i class="fab fa-dev" title="rishabh062's DEV Profile"></i>
-</a>
-
 **"I really loves technology because it empowers you to do the things which seems to be impossible or hard to normal peoples.
 Always ready for help :-) :-) :)"**
 
