@@ -23,6 +23,9 @@ Always ready for help :-) :-) :)"**
 <p align="left">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh062&theme=radical&line_height=10&hide_langs_below=1&layout=compact" />
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabh062&show_icons=true&theme=radical&line_height=21"/>
+    <br>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=arwazkhan189&theme=dracula" alt="Arwaz's github trophy"/>
+
 </p>
 <br>
 <p align="center"> 
