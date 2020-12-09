@@ -25,3 +25,8 @@ Always ready for help :-) :-) :)"**
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabh062&show_icons=true&theme=radical&line_height=21"/>
 </p>
 <br>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/rishabh062/count.svg" />
+</p>
+
