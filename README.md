@@ -22,11 +22,19 @@ Always ready for help :-) :-) :)"**
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <p align="left">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh062&theme=radical&line_height=10&hide_langs_below=1&layout=compact" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabh062&show_icons=true&theme=radical&line_height=21"/>
+    
+</p>
+ <details>
+<summary>📊 Github Stats</summary>
+
+<p align="center"> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabh062&show_icons=true&theme=radical&line_height=21"/>
     <br>
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=rishabh062&theme=dracula" alt="Rishabh's github trophy"/>
 
-</p>
+
+</details>
+
 <br>
 <p align="center"> 
   Visitor count<br>
