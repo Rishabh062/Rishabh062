@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2> I am Rishabh Dwivedi.
+### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2> **I am Rishabh Dwivedi**.
 ### Currently Doing BTech in Computer Science And Engineering and enjoying it.
 
 - 🔭 I’m currently working on ... Machine Learning Web-Apps,Web Development,Competitive Programming and Various Algorithms  .
