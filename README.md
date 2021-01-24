@@ -1,9 +1,9 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2> I am Rishabh Dwivedi.
 ### Currently Doing BTech in Computer Science And Engineering and enjoying it.
 
-- 🔭 I’m currently working on ... Python projects, Machine learning and Competitive programming .
-- 🌱 I’m currently learning ... Machine Learning,web development,Data Structures and Algorithms.
-- 👯 I’m looking to collaborate with ...Peoples who are a fan of open sources and likes DsAlgo.
+- 🔭 I’m currently working on ... Machine Learning Web-Apps,Web Development,Competitive Programming and Various Algorithms  .
+- 🌱 I’m currently learning ... Web Development, Machine Learning,ML-webApps and Ds-Algo.
+- 👯 I’m looking to collaborate with ...Peoples who are a fan of open sources,Web Development and enthusiastic about Machine Learning.
 - 🤔 I’m looking for help with ...Experienced Developers and open source contributors.
 - 💬 Ask me about ...Machine Learning,Web developments,Python.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/rishabh-dwivedi-28737b1a0"><img align="center" alt="Rishabh's LinkdeIn" width="16px" src="https://github.com/arwazkhan189/my-images/blob/main/linkedin.svg" /></a>                <a href="https://twitter.com/Rishabh07147212"><img align="center" alt="Rishabh's Twitter" width="16px" src="https://github.com/arwazkhan189/my-images/blob/main/twitter.svg" /></a>             <a href="https://www.youtube.com/results?search_query=talkwithrd"><img align="center" alt="Rishabh's Youtube" width="16px" src="https://github.com/arwazkhan189/my-images/blob/main/youtube.svg" /></a>              <a href="https://talkwithrd.blogspot.com/"><img align="center" alt="Rishabh's Blog" width="16px" src="https://github.com/arwazkhan189/my-images/blob/main/blogger%20red.svg" /></a>
