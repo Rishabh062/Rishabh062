@@ -49,7 +49,10 @@ Always ready for help :-) :-) :)"**
  <details>
 <summary>📊 Github Stats</summary>
 
-<p align="center"> 
+<p align="center">
+  <br>
+ <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh062&theme=blue-green" />
+  <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabh062&show_icons=true&theme=blue-green&line_height=21"/>
     <br>
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=rishabh062&theme=dracula" alt="Rishabh's github trophy"/>
