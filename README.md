@@ -65,6 +65,10 @@ Always ready for help :-) :-) :)"**
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/rishabh062/count.svg" />
 </p>
+<br>
+<h3 align="center">
+ Show some ❤️ by starring some of the repositories!
+</h3>
 
 
 [twitter]: https://twitter.com/Rishabh07147212
