@@ -41,6 +41,8 @@ Always ready for help :-) :-) :)"**
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" width="40" src="https://mms.businesswire.com/media/20200616005364/en/798639/23/Streamlit_Logo_%281%29.jpg"></code>
+<code><img height="30" width="40" src="https://logodownload.org/wp-content/uploads/2016/10/php-logo-2.png"></code>
+
 <p align="left">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh062&theme=radical&line_height=10&hide_langs_below=1&layout=compact" />
    <img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" /> 
