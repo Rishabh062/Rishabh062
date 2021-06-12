@@ -45,9 +45,9 @@ Always ready for help :-) :-) :)"**
 <code><img height="30" width="40" src="https://logodownload.org/wp-content/uploads/2016/10/php-logo-2.png"></code>
 <code><img height="30" width="40" src="http://blog.idrsolutions.com/wp-content/uploads/2014/06/java_logo.jpg"></code>
 
-<p align="left">
+<p align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh062&theme=radical&line_height=10&hide_langs_below=1&layout=compact" />
-   <img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" /> 
+<!--    <img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />  -->
 </p>
 
  <details>
@@ -69,8 +69,8 @@ Always ready for help :-) :-) :)"**
  Show some ❤️ by starring some of the repositories!
 </h3>
 <br>
-<img align="left" alt="Dog" width="" src="tenor.gif" />
-<img align="right" alt="Dog" width="" src="tenor.gif" />
+<!-- <img align="left" alt="Dog" width="" src="tenor.gif" />
+<img align="right" alt="Dog" width="" src="tenor.gif" /> -->
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/rishabh062/count.svg" />
