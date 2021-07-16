@@ -6,29 +6,29 @@
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
       
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
-[<img height="30" src="https://img.shields.io/badge/dev-000000.svg?&style=for-the-badge&logo=Dev&logoColor=white" />][Dev]
-[<img height="30" src="https://img.shields.io/badge/Instagram-%23F4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />][Instagram]
-[<img height="30" src = "https://img.shields.io/badge/Facebook-036be4.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
-[<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">][gmail] 
+[<img src="https://img.icons8.com/bubbles/100/fa314a/twitter.png"/>][twitter]
+[<img src="https://img.icons8.com/clouds/100/000000/youtube.png"/>][Youtube] 
+[<img src="https://img.icons8.com/clouds/100/fa314a/instagram-new--v2.png"/>][Instagram]
+[<img src="https://img.icons8.com/bubbles/100/4a90e2/facebook-new.png" />][Facebook]
 <br />
 <hr />
 
+  <b><i>Where I write blogs, and share my knowledge</i></b>
+  <br>
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
+[<img height="30" src="https://img.shields.io/badge/dev-000000.svg?&style=for-the-badge&logo=Dev&logoColor=white"/>][Dev]
+  <hr />
+  
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 
--  I’m currently working on --> Machine Learning Web-Apps,Web Development,Competitive Programming and Various Algorithms.
--  I’m currently learning --> Web Development, Machine Learning,ML-webApps and Ds-Algo.
--  I’m looking to collaborate with --> Peoples who are a fan of open sources,Web Development and enthusiastic about Machine Learning.
--  I’m looking for help with --> Experienced Developers and open source contributors.
-- 💬 Ask me about --> Machine Learning,Web developments,Python,Competitive Programming.
+-  I'm interested in front end web development, machine learning and computer vision.
+-  I love playing cricket and listening songs.
+-  I like learning from communities.
+-  You can ask me about Machine Learning,Web developments,Python,Competitive Programming.
 -  Pronouns: Rishabh/He/Him
--  Fun fact: --> Always ready to explore and collaborate.
-
-**"I really loves technology because it empowers you to do the things which seems to be impossible or hard to normal peoples.
-Always ready for help :-) :-) :)"**
+-  Fun fact about me I always ready to explore and collaborate.
+<hr />
 
  **Technology and Tools I Knows.**
 <br><br>
