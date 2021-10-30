@@ -51,7 +51,6 @@
 <code><img height="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
 <hr/>
 
-<a href="https://app.daily.dev/rishabh062"><img src="https://api.daily.dev/devcards/5b41a7e10ddb4086b0c54939ef3665fa.png?r=oj6" width="400" alt="Rishabh Dwivedi's Dev Card"/></a>
 
 
  ### **Some Frameworks And Platforms I Am Familier With**
