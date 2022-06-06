@@ -23,7 +23,7 @@
 [<img height="30" src="https://img.shields.io/badge/dev-000000.svg?&style=for-the-badge&logo=Dev&logoColor=white"/>][Dev]
   <hr />
   
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>!</h2>
 
 
 -  I'm interested in front end web development, machine learning and computer vision.
@@ -31,6 +31,7 @@
 <!-- -  I like learning from communities.
 -  You can ask me about Machine Learning,Web developments,Python,Competitive Programming.
 -  Pronouns: Rishabh/He/Him
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 -  Fun fact about me I always ready to explore and collaborate. -->
 <hr />
 
