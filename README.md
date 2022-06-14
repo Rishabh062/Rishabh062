@@ -8,7 +8,7 @@
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
       
-[<img src="https://img.icons8.com/bubbles/100/fa314a/twitter.png"/>][twitter]
+[<img src="https://img.icons8.com/bubbles/100/undefined/twitter-squared.png"/>][twitter]
 [<img src="https://img.icons8.com/clouds/100/000000/youtube.png"/>][Youtube] 
 [<img src="https://img.icons8.com/clouds/100/fa314a/instagram-new--v2.png"/>][Instagram]
 [<img src="https://img.icons8.com/bubbles/100/4a90e2/facebook-new.png" />][Facebook]
