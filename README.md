@@ -26,20 +26,17 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>!</h2>
 
 
--  I'm interested in front end web development, machine learning and computer vision.
+-  I'm interested in Reactjs, Nodejs development, machine learning and computer vision.
 -  I love playing cricket and listening songs.
-<!-- -  I like learning from communities.
--  You can ask me about Machine Learning,Web developments,Python,Competitive Programming.
--  Pronouns: Rishabh/He/Him
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
--  Fun fact about me I always ready to explore and collaborate. -->
 <hr />
 
  ### **Tools and Technology I Knows.**
 <br>
+<code><img src="https://img.icons8.com/plasticine/100/000000/react.png"/></code>
+<code><img src="https://img.icons8.com/color/96/000000/nodejs.png"/></code>
 <code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+<code><img src="https://img.icons8.com/color/96/000000/tensorflow.png"/></code>
 <code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
-<code><img height="70" src="https://cdn-blog.adafruit.com/uploads/2012/12/github-logo-transparent.jpg"></code>
 <code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
 <code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -57,6 +54,7 @@
  ### **Some Frameworks And Platforms I Am Familier With**
 <br>
 <code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code>
+<code><img src="https://img.icons8.com/plasticine/100/000000/github-squared.png"/></code>
 <code><img height="70"  src="https://www.analyticsvidhya.com/wp-content/uploads/2015/06/kaggle-logo-transparent-300.png"></code>
 <code><img height="70"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/831px-OpenCV_Logo_with_text_svg_version.svg.png"></code>
 <code><img height="70"  src="https://miro.medium.com/max/776/1*Lad06lrjlU9UZgSTHUoyfA.png"></code>
