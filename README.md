@@ -103,4 +103,4 @@
 [Dev]: https://dev.to/rishabh062
 [Instagram]: https://www.instagram.com/rishabhdwivedi062/
 [Gmail]: https://www.gmail.com/
-[Portfolio]: https://rishabh062.github.io/new_portfolio/ 
+[Portfolio]: https://rishabh-portfolio.vercel.app/ 
