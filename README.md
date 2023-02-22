@@ -1,9 +1,8 @@
-<!-- ## Hi everyone</h2>
-### I am [**Rishabh Dwivedi**](https://rishabh062.github.io/new_portfolio/)
+## Hi everyone</h2>
+### I am [**Rishabh Dwivedi**](https://rishabh-portfolio.vercel.app/)
 
-## Currently Doing BTech in Computer Science And Engineering and enjoying it. -->
+## Currently Doing BTech in Computer Science And Engineering and enjoying it.
 
-<img src="https://github.com/Rishabh062/Rishabh062/blob/master/assest/GITHUB-BANNER.png"/>
 <hr/>
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
@@ -33,20 +32,17 @@
  ### **Tools and Technology I Knows.**
 <br>
 <code><img src="https://img.icons8.com/plasticine/100/000000/react.png"/></code>
-<code><img src="https://img.icons8.com/color/96/000000/nodejs.png"/></code>
-<code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+<code><img src="https://img.icons8.com/color/96/null/nextjs.png"/></code>
+<code><img src="https://img.icons8.com/fluency/96/null/python.png"/></code>
 <code><img src="https://img.icons8.com/color/96/000000/tensorflow.png"/></code>
-<code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img src="https://img.icons8.com/color/96/null/git.png"/></code>
+<code><img src="https://img.icons8.com/color/96/null/material-ui.png"/></code>
+<code><img src="https://img.icons8.com/fluency/96/null/c-plus-plus-logo.png"/></code>
+<code><img src="https://img.icons8.com/color/96/null/javascript--v1.png"/></code>
 <br/>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-<!-- <code><img height="70" width="40" src="https://mms.businesswire.com/media/20200616005364/en/798639/23/Streamlit_Logo_%281%29.jpg"></code> -->
-<code><img height="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
-<code><img height="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
+<code><img src="https://img.icons8.com/color/96/null/sass.png"/></code>
+<code><img src="https://img.icons8.com/color/96/null/bootstrap.png"/></code>
+<code><img src="https://img.icons8.com/fluency/96/null/typescript--v2.png"/></code>
 <hr/>
 
 
