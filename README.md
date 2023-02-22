@@ -25,7 +25,7 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>!</h2>
 
 
--  I'm interested in Reactjs, Nodejs development, machine learning and computer vision.
+-  I'm a frontend developer and is highly skilled in frameworks likes Reactjs and Nextjs. I have a experience of working on complex frontend design.
 -  I love playing cricket and listening songs.
 <hr />
 
@@ -39,7 +39,6 @@
 <code><img src="https://img.icons8.com/color/96/null/material-ui.png"/></code>
 <code><img src="https://img.icons8.com/fluency/96/null/c-plus-plus-logo.png"/></code>
 <code><img src="https://img.icons8.com/color/96/null/javascript--v1.png"/></code>
-<br/>
 <code><img src="https://img.icons8.com/color/96/null/sass.png"/></code>
 <code><img src="https://img.icons8.com/color/96/null/bootstrap.png"/></code>
 <code><img src="https://img.icons8.com/fluency/96/null/typescript--v2.png"/></code>
@@ -49,7 +48,7 @@
 
  ### **Some Frameworks And Platforms I Am Familier With**
 <br>
-<code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code>
+<code><img src="https://img.icons8.com/fluency/96/null/visual-studio-code-2019.png"/></code>
 <code><img src="https://img.icons8.com/plasticine/100/000000/github-squared.png"/></code>
 <code><img height="70"  src="https://www.analyticsvidhya.com/wp-content/uploads/2015/06/kaggle-logo-transparent-300.png"></code>
 <code><img height="70"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/831px-OpenCV_Logo_with_text_svg_version.svg.png"></code>
