@@ -1,7 +1,7 @@
 ## Hi everyone</h2>
 ### I am [**Rishabh Dwivedi**](https://rishabh-portfolio.vercel.app/)
 
-## Currently Doing BTech in Computer Science And Engineering and enjoying it.
+## I am a Frontend Developer and mostly hooked up with Next.js
 
 <hr/>
 <p align="center">
